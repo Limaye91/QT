@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/speedo.jpeg</file>
+        <file>img/ll.png</file>
+        <file>../Downloads/limg-removebg-preview-removebg-preview.png</file>
+        <file>img/rr.png</file>
+    </qresource>
+</RCC>
